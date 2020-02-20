@@ -1,0 +1,23 @@
+commit 05b42e5ed906863321289d2618a1514e33c3fc1d
+Author: DamienL <da.landre@laposte.net>
+Date:   Thu Feb 20 16:55:22 2020 +0100
+
+    modif file 1 et ajout du file 4
+
+commit 8a8c0eb2f7735a23a1d3f8646d3d41e6111dfcf7
+Author: DamienL <da.landre@laposte.net>
+Date:   Tue Feb 18 17:44:56 2020 +0100
+
+    mon premier truc
+
+commit 5c5199f704c546af6ba31b50654ac73339320f4c
+Author: GENIAUT Gérald <gerald.geniaut@univ-fcomte.fr>
+Date:   Wed Feb 12 12:21:33 2020 +0100
+
+    Ajout des fichiers file1.txt et file2.txt
+
+commit 65dc366a864f4ce0de171d8c06d4c230d52b94a5
+Author: GENIAUT Gérald <gerald.geniaut@univ-fcomte.fr>
+Date:   Wed Feb 12 12:18:33 2020 +0100
+
+    Init
